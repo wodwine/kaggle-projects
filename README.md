@@ -7,4 +7,5 @@
    Under Sampling: https://www.kaggle.com/worldwineweb/credit-fraud-under-sampling
    
    Over Sampling: https://www.kaggle.com/worldwineweb/credit-fraud-over-sampling
+4. Mushroom: https://www.kaggle.com/worldwineweb/mushroom-classification
    
