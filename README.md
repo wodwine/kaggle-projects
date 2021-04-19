@@ -8,4 +8,4 @@
    
    Over Sampling: https://www.kaggle.com/worldwineweb/credit-fraud-over-sampling
 4. Mushroom: https://www.kaggle.com/worldwineweb/mushroom-classification
-   
+5. Walmart: 
